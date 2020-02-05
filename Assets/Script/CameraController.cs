@@ -1,7 +1,5 @@
 using UnityEngine;
 using System.Collections;
-/// <summary>
-/// /test
 /// </summary>
 public class CameraController : MonoBehaviour {
 
